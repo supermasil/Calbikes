@@ -1,6 +1,1 @@
-# Calbikes
-As students of UC Berkeley and also bikers, we found it inconvenient every time
-we need to find some place to fix our bikes or to buy replacement parts, especially
-when most stores are off the grid on Google Maps. We decided to build our own app to
-share with all the bikers in the area just in case they need it. Please share if you like
-our app!
+We found it very inconvenient every time we need to find bike pumps, bike racks or bike shops in the area because they are not on Google Maps so I and my friends decided to build an app utilizing Google Maps API to share with the community. The app is up and running now, in which user can see bike-related locations in Berkeley city and nearby area and locate their current location. The ambition is to list all the hidden gems at UC Berkeley areas for Berkeley students and local people. Please share if you like it!
