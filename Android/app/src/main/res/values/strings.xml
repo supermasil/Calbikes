@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalBikes</string>
+    <string name="title_activity_maps">CalBikes</string>
+    <string name="permission_rationale_location">Without your permission, we can\'t locate your where you are!</string>
+    <string name="permission_required_toast">Permission needed to access your current location</string>
+    <string name="location_permission_denied">Permission denied</string>
+</resources>
